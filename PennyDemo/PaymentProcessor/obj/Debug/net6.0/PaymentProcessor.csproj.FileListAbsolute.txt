@@ -1,0 +1,12 @@
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.deps.json
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.dll
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.pdb
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.csproj.AssemblyReference.cache
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.AssemblyInfoInputs.cache
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.AssemblyInfo.cs
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.dll
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\refint\PaymentProcessor.dll
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.pdb
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\PaymentProcessor\obj\Debug\net6.0\ref\PaymentProcessor.dll

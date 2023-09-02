@@ -1,0 +1,12 @@
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\bin\Debug\net6.0\Mango.MessageBus.deps.json
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\bin\Debug\net6.0\Mango.MessageBus.dll
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\bin\Debug\net6.0\Mango.MessageBus.pdb
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.AssemblyInfo.cs
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.dll
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\refint\Mango.MessageBus.dll
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\Mango.MessageBus.pdb
+C:\Users\peiyun\Desktop\practiceMicoservice\PennyDemo0605_ShoppongCartAPI_ServiceBus\PennyDemo\Mango.MessageBus\obj\Debug\net6.0\ref\Mango.MessageBus.dll
